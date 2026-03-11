@@ -189,21 +189,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=omar-y-abdi&theme=onestar&no-frame=true&column=6&row=2" />
-</p>
-
-<br/>
-
-<!-- Snake animation — uncomment after adding a PAT with read:user scope as GH_TOKEN secret
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omar-y-abdi/omar-y-abdi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
--->
-
-<br/>
 
 ## 🎵 Now Playing
 
