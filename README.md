@@ -192,7 +192,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-y-abdi&theme=onestar&no-frame=true&column=6&row=2" />
+  <img src="https://github-trophies.vercel.app/?username=omar-y-abdi&theme=onestar&no-frame=true&column=6&row=2" />
 </p>
 
 <br/>
