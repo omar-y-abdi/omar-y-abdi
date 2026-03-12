@@ -9,15 +9,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Automation+%26+Mechatronics+%40+Chalmers;AI+%7C+Computer+Vision+%7C+macOS+Dev;Building+agentic+systems+with+Claude;Swift+%7C+Python+%7C+TypeScript+%7C+C%2B%2B&color=6C63FF&vCenter=true&size=22" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/omar-y-abdi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/omar-y-abdi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/omar-y-abdi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/omar-y-abdi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
-
 <br/>
 
 - M.Sc. in **Automation & Mechatronics** @ Chalmers (graduating 2028)
