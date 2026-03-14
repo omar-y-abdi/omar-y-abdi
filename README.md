@@ -12,11 +12,11 @@
 <br/>
 
 - M.Sc. in **Automation & Mechatronics** @ Chalmers (graduating 2028)
-- Building hobby projects using **agentic AI systems** — MCP gateway, multi-agent orchestration using different LLM providers in parallel
-- Developing **macOS apps** in Swift/SwiftUI — Notch for Everything, ClaudeCodeForXcode (TCA + XPC)
-- Experience in **computer vision** — YOLOv11, SAM2, CLIP, synthetic data pipelines for robotic sorting
-- B.Sc. thesis: **dual-axis solar tracking** optimization — Arduino + Python data analysis
-- Contributing to **open source** — Message if you are in need of a contributor for your project!
+- Building hobby projects using **agentic AI systems**: MCP gateway, multi-agent orchestration using different LLM providers in parallel
+- Developing **macOS apps** in Swift/SwiftUI: Notch for Everything, ClaudeCodeForXcode (TCA + XPC)
+- Experience in **computer vision**: YOLOv11, SAM2, CLIP, synthetic data pipelines for robotic sorting
+- B.Sc. thesis: **dual-axis solar tracking** optimization: Arduino + Python data analysis
+- Contributing to **open source**: Message if you are in need of a contributor for your project!
 - When not coding: Listen to R&B, soul & jazz music while studying
 
 <br/>
