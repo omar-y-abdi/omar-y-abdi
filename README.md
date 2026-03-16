@@ -36,12 +36,10 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" colspan="2" valign="top">
       <h3>code-brain</h3>
       <p>Local code indexing with hybrid search — SQLite + sqlite-vec + FTS5, tree-sitter AST chunking, and Ollama embeddings.</p>
       <p><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></p>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
