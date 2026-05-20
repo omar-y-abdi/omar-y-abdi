@@ -1,0 +1,171 @@
+<svg width="550" height="380" viewBox="0 0 550 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bubble {
+      fill: #e9e9eb;
+    }
+    .bubble-blue {
+      fill: #007AFF;
+    }
+    text {
+      fill: #242424;
+      font-size: 17px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif;
+      letter-spacing: -0.02em;
+    }
+    .text-white {
+      fill: #ffffff;
+    }
+
+    .typing-1 { opacity: 0; animation: fade-in-out 1.5s; }
+    .typing-2 { opacity: 0; animation: wait 2.5s, fade-in-out 1.5s 2.5s; }
+    .typing-3 { opacity: 0; animation: wait 5.5s, fade-in-out 1.5s 5.5s; }
+    .typing-5 { opacity: 0; animation: wait 11.5s, fade-in-out 1.5s 11.5s; }
+    .typing-6 { opacity: 0; animation: wait 11.5s, fade-in-out 1.5s 11.5s; }
+
+    .msg-1 { animation: wait 1.7s, msg-1 0.2s 1.7s; }
+    .msg-2 { animation: wait 4.2s, msg-2 0.2s 4.2s; }
+    .msg-3 { animation: wait 7.2s, msg-3 0.2s 7.2s; }
+    .msg-4 { animation: wait 10.2s, msg-4 0.2s 10.2s; }
+    .msg-5 { animation: wait 13.2s, msg-5 0.2s 13.2s; }
+    .msg-6 { animation: wait 16.2s, msg-6 0.2s 16.2s; }
+
+    @keyframes wait {
+      0%, 100% { opacity: 0; }
+    }
+
+    @keyframes fade-in-out {
+      0%, 100% { opacity: 0; }
+      25%, 90% { opacity: 1; }
+    }
+
+    @keyframes msg-1 {
+      0%   { opacity: 0; transform: translate(10px, 5px); }
+      100% { opacity: 1; transform: translate(10px, 0px); }
+    }
+    @keyframes msg-2 {
+      0%   { opacity: 0; transform: translate(10px, 57px); }
+      100% { opacity: 1; transform: translate(10px, 52px); }
+    }
+    @keyframes msg-3 {
+      0%   { opacity: 0; transform: translate(10px, 125px); }
+      100% { opacity: 1; transform: translate(10px, 120px); }
+    }
+    @keyframes msg-4 {
+      0%   { opacity: 0; transform: translate(240px, 170px); }
+      100% { opacity: 1; transform: translate(240px, 165px); }
+    }
+    @keyframes msg-5 {
+      0%   { opacity: 0; transform: translate(10px, 249px); }
+      100% { opacity: 1; transform: translate(10px, 244px); }
+    }
+    @keyframes msg-6 {
+      0%   { opacity: 0; transform: translate(470px, 295px); }
+      100% { opacity: 1; transform: translate(470px, 290px); }
+    }
+  </style>
+
+  <!-- typing 1 -->
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8.27" width="69.73" height="42" rx="21" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.55" cy="41.95" r="3.55" class="bubble" />
+    <circle cx="27.48" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.21" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- msg 1: Hey, I'm Omar -->
+  <g transform="translate(10, 5)" class="msg-1 bubble">
+    <rect width="120" height="42" rx="18" />
+    <text x="15" y="27">Omar here</text>
+  </g>
+
+  <!-- typing 2 -->
+  <g transform="translate(10, 52)" class="typing-2">
+    <rect x="8.27" width="69.73" height="42" rx="21" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.55" cy="41.95" r="3.55" class="bubble" />
+    <circle cx="27.48" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.21" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- msg 2: Student + location -->
+  <g transform="translate(10, 52)" class="msg-2">
+    <rect width="410" height="64" rx="18" class="bubble" />
+    <text x="15" y="26">M.Sc. Automation &amp; Mechatronics 🎓 @ Chalmers</text>
+    <text x="15" y="50">Gothenburg, Sweden</text>
+  </g>
+
+  <!-- typing 3 -->
+  <g transform="translate(10, 120)" class="typing-3">
+    <rect x="8.27" width="69.73" height="42" rx="21" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.55" cy="41.95" r="3.55" class="bubble" />
+    <circle cx="27.48" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.21" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- msg 3: What I build -->
+  <g transform="translate(10, 120)" class="msg-3">
+    <rect width="210" height="42" rx="18" class="bubble" />
+    <text x="15" y="26">And I build stuff.. I think?</text>
+  </g>
+
+
+
+  <!-- msg 4: Languages (blue bubble, right-aligned) -->
+  <g transform="translate(240, 165)" class="msg-4">
+    <rect width="300" height="62" rx="18" class="bubble-blue" />
+    <text x="15" y="27" class="text-white">You got any language preference?</text>
+    <text x="15" y="50" class="text-white">Python, Swift, TypeScript or C++?</text>
+  </g>
+
+  <!-- typing 5 -->
+  <g transform="translate(10, 244)" class="typing-5">
+    <rect x="8.27" width="69.73" height="42" rx="21" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.55" cy="41.95" r="3.55" class="bubble" />
+    <circle cx="27.48" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.21" cy="21" r="5.02" fill="#999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- msg 5: Open to collabs -->
+  <g transform="translate(10, 244)" class="msg-5">
+    <rect width="350" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">You can't make me favourites my kids!! 😰😰</text>
+  </g>
+
+  <!-- msg 6: reaction (blue bubble, far right) -->
+  <g transform="translate(470, 290)" class="msg-6">
+    <rect width="70" height="42" rx="18" class="bubble-blue" />
+    <text x="15" y="27" class="text-white">😂😂</text>
+  </g>
+
+</svg>
